@@ -15,6 +15,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.biletdukkani.composecodelab.composescreen.BottomNavigation
 import com.biletdukkani.composecodelab.composescreen.HomeScreen
+import com.biletdukkani.composecodelab.composescreen.WaterCounter
+import com.biletdukkani.composecodelab.composescreen.WellnessScreen
 import com.biletdukkani.composecodelab.ui.theme.ComposeCodeLabTheme
 
 class MainActivity : ComponentActivity() {
@@ -34,17 +36,18 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
     ComposeCodeLabTheme {
-        Surface(
-            color = MaterialTheme.colorScheme.background
-        ) {
-            Row {
-                BottomNavigation()
-                HomeScreen()
-            }
-        }
+        WellnessScreen()
+      // Surface(
+      //     color = MaterialTheme.colorScheme.background
+      // ) {
+      //     Row {
+      //         BottomNavigation()
+      //         HomeScreen()
+      //     }
+      // }
     }
 }
