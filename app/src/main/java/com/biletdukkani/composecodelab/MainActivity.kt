@@ -17,6 +17,7 @@ import com.biletdukkani.composecodelab.composescreen.BottomNavigation
 import com.biletdukkani.composecodelab.composescreen.HomeScreen
 import com.biletdukkani.composecodelab.composescreen.WaterCounter
 import com.biletdukkani.composecodelab.composescreen.WellnessScreen
+import com.biletdukkani.composecodelab.composescreen.WellnessTaskItemCheckBox
 import com.biletdukkani.composecodelab.ui.theme.ComposeCodeLabTheme
 
 class MainActivity : ComponentActivity() {
@@ -40,7 +41,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     ComposeCodeLabTheme {
-        WellnessScreen()
+
       // Surface(
       //     color = MaterialTheme.colorScheme.background
       // ) {

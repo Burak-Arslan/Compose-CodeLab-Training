@@ -67,7 +67,7 @@ Sapp/src/main/java/com/biletdukkani/composecodelab/composescreen/BottomNavigatio
 Oapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WaterCounter.kt,2/0/202f3c15f748bf039c974e42c488bfd6078aa71f
 Å
 Qapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessScreen.kt,c/e/ce654992f9fa36a15a584e334afb0a37f2f6e696
-Ç
-Rapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnesTaskItem.kt,3/f/3f5bcd3a4e2b2978aadd865deee5a741b49d81ce
 É
 Sapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTaskItem.kt,4/2/425312e022da7751aa809a9c64d1d69d01ee78a7
+ã
+[app/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTaskItemCheckBox.kt,e/8/e87fc942d63ad51f8a7aaa40dd14845e71ee92e5
