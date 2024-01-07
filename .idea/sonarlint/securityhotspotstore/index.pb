@@ -71,3 +71,9 @@ Qapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessScreen.
 Sapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTaskItem.kt,4/2/425312e022da7751aa809a9c64d1d69d01ee78a7
 ‹
 [app/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTaskItemCheckBox.kt,e/8/e87fc942d63ad51f8a7aaa40dd14845e71ee92e5
+ƒ
+Sapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WorkTaskItemList.kt,4/4/4401f7754069cf0bd39bf9784667884f9c1579ba
+‡
+Wapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTaskItemList.kt,5/6/56db4af1db1c11ee870c5552198b8e4cf8db3760
+
+Oapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTask.kt,7/2/72abbe2286845859cb5d9473fb639b474607d093

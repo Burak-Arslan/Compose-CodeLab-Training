@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     ComposeCodeLabTheme {
-
+        WellnessScreen()
       // Surface(
       //     color = MaterialTheme.colorScheme.background
       // ) {
