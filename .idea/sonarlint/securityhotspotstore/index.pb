@@ -77,3 +77,7 @@ Sapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WorkTaskItemLis
 Wapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTaskItemList.kt,5/6/56db4af1db1c11ee870c5552198b8e4cf8db3760
 
 Oapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTask.kt,7/2/72abbe2286845859cb5d9473fb639b474607d093
+’
+bapp/src/main/java/com/biletdukkani/composecodelab/composescreen/FastTransactionComposableScreen.kt,e/9/e9d178b727c0f58f11d3196e79614497e28f4b11
+†
+Vapp/src/main/java/com/biletdukkani/composecodelab/composescreen/FastTransactionItem.kt,5/0/50f83407d846830faa7cd6ff79fc6f7f6b69e108
