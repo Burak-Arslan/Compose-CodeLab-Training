@@ -5,6 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
+import com.biletdukkani.composecodelab.composescreen.CoilTraining
 import com.biletdukkani.composecodelab.composescreen.FastTransactionComposableScreen
 import com.biletdukkani.composecodelab.ui.theme.ComposeCodeLabTheme
 
@@ -24,8 +25,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     ComposeCodeLabTheme {
-        FastTransactionComposableScreen()
-
+        CoilTraining()
         // Surface(
         //     color = MaterialTheme.colorScheme.background
         // ) {

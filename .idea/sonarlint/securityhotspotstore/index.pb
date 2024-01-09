@@ -81,3 +81,5 @@ Oapp/src/main/java/com/biletdukkani/composecodelab/composescreen/WellnessTask.kt
 bapp/src/main/java/com/biletdukkani/composecodelab/composescreen/FastTransactionComposableScreen.kt,e/9/e9d178b727c0f58f11d3196e79614497e28f4b11
 †
 Vapp/src/main/java/com/biletdukkani/composecodelab/composescreen/FastTransactionItem.kt,5/0/50f83407d846830faa7cd6ff79fc6f7f6b69e108
+
+Oapp/src/main/java/com/biletdukkani/composecodelab/composescreen/CoilTraining.kt,e/e/ee2b85a4639a7717c5f62e1fc3f60305054e30c1
